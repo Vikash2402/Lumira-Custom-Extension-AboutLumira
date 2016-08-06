@@ -22,7 +22,17 @@ https://account.hanatrial.ondemand.com/
 
 ### Step 3 - Add a new project in SAP WEB IDE
  Once the HTML WEB Application is ready in HANA Cloud Cockpit EDIT that using SAP Web Editor by clicking on EDIT option as mentioned in above screenshot.
+ 
+ ![alt tag](https://github.com/Vikash2402/Lumira-Custom-Extension-AboutLumira/blob/master/images/NewProject.png)
+ 
+ 
 
-### Step 4 - Create Account on SAP HANA Cloud Platform Cockpit
+### Step 4 - Select template and configure
+ Select a suitable template and configure it accordingly. i.e. provide name, Visualization Extension profile, configure layout, select and configure sample data and so on...
+ 
+ ![alt tag](https://github.com/Vikash2402/Lumira-Custom-Extension-AboutLumira/blob/master/images/SampleTemplates.png)
+ 
+ ![alt tag](https://github.com/Vikash2402/Lumira-Custom-Extension-AboutLumira/blob/master/images/ConfigureLayout.png)
+
 
 
