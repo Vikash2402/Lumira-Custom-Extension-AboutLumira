@@ -64,8 +64,8 @@ https://account.hanatrial.ondemand.com/
 
     vis.append("text").text("Welcome to the Custom Extension!").attr("y",30).attr("font-size","large").attr("color","red");
     vis.append("text").text("This extension will show us the some useful details about Lumira.").attr("y",80).attr("font-size","medium");
-    ```
-    
+ ```
+
 ### Step 8 - Output
  
  Below are the output of above code...
