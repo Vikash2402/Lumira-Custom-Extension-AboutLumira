@@ -56,7 +56,7 @@ https://account.hanatrial.ondemand.com/
  So besically we start editing with render.js file.
   ![alt tag](https://github.com/Vikash2402/Lumira-Custom-Extension-AboutLumira/blob/master/images/RendererEdit.PNG)
   
-   ####Code
+#### Code
    ```
    container.selectAll('svg').remove();
    var vis = container.append('svg').attr('width', width).attr('height', height)
@@ -68,7 +68,7 @@ https://account.hanatrial.ondemand.com/
 
 ### Step 8 - Output
  
- Below are the output of above code...
+ Below is the output of above code...
  
    ![alt tag](https://github.com/Vikash2402/Lumira-Custom-Extension-AboutLumira/blob/master/images/LumiraOutput.PNG)
 
